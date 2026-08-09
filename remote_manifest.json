@@ -5,7 +5,7 @@
   "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant",
   "attribution": "本站内容由莊春江老师翻译、整理与著述，现由家属决议采创用 CC 授权开放分享。来源：莊春江讀經站 https://agama.buddhason.org",
   "sourceURL": "https://agama.buddhason.org",
-  "generatedAt": "2026-08-09T12:21:10.490661+00:00",
+  "generatedAt": "2026-08-09T14:40:51.336951+00:00",
   "collections": [
     {
       "id": "Ud",
@@ -14,8 +14,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 80,
       "downloadPath": "Ud.sqlite.zip",
-      "sha256": "cbbb10f8a0fbf2ff14265a684dd4c70be5a0b79d1dc7b047854c02a4e9a1ea70",
-      "byteSize": 264766
+      "sha256": "d3b3f246170510cdfe1c80f15505660b57ddc83f49c42f9f1d0c87c1b69a1528",
+      "byteSize": 265514
     },
     {
       "id": "It",
@@ -24,8 +24,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 112,
       "downloadPath": "It.sqlite.zip",
-      "sha256": "3b95cd6fe877512d2389fe28e2eaf0539a9293d77fa59fe38bca0b72afca345f",
-      "byteSize": 162819
+      "sha256": "adb6f181ee92cde6e327e9329fe1223114c95652a9c5b30afe8c75a0018b9b00",
+      "byteSize": 163385
     },
     {
       "id": "Ps",
@@ -34,8 +34,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 30,
       "downloadPath": "Ps.sqlite.zip",
-      "sha256": "36887b2cc5ed8d5cdd90af4e8659b7b670d8dfe5ecbae038ddaf79fb399cc21e",
-      "byteSize": 601763
+      "sha256": "ca8d05973be4a3275af3dc091e9cbc77edde6ea1f7e27e1118d0efb7fac8b889",
+      "byteSize": 601090
     },
     {
       "id": "Nidd",
@@ -44,8 +44,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 39,
       "downloadPath": "Nidd.sqlite.zip",
-      "sha256": "8100976d76c90bdf1df874bc648209f977fdd6232a42fa31b87eb0de886d96b0",
-      "byteSize": 1575171
+      "sha256": "1264855b894e72580a491e67992aff8a854736e9801855d4b9296b9447b75041",
+      "byteSize": 1576868
     },
     {
       "id": "Khp",
@@ -54,8 +54,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 9,
       "downloadPath": "Khp.sqlite.zip",
-      "sha256": "83567327c3925b7c2be1d30ae2e6156c065d59e93841f12ee9f0652796e3fb51",
-      "byteSize": 25162
+      "sha256": "bb23f138ef3264f286caf54320cb94043c4e50249855cd02a7af780bc260b4df",
+      "byteSize": 24942
     },
     {
       "id": "Dhp",
@@ -64,8 +64,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 26,
       "downloadPath": "Dhp.sqlite.zip",
-      "sha256": "c55814560db6cf21be69c7b55c447454649038e3b38e5279335f369d2438f4f5",
-      "byteSize": 111852
+      "sha256": "67525eb71bc22b57f1cb594a14f7c2de5d5f55fdd142ca8deed91733fa898d2e",
+      "byteSize": 111460
     },
     {
       "id": "Snp",
@@ -74,8 +74,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 73,
       "downloadPath": "Snp.sqlite.zip",
-      "sha256": "40a7fa61a7c3f3b0dbe8a8ad63d2e513444ab281575b1e1275305c25c1e01265",
-      "byteSize": 371102
+      "sha256": "03bdf877f7fb42b581a5ce9a7234c76670c71e4923ad1ac1895d29ade0acbc2d",
+      "byteSize": 372105
     },
     {
       "id": "Vv",
@@ -84,8 +84,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 85,
       "downloadPath": "Vv.sqlite.zip",
-      "sha256": "a53d849a36a749e75ea639cbd80c7847910ae547fc8d4d790abb4cc6fe8390be",
-      "byteSize": 208134
+      "sha256": "5d2fd53ac12ecda2c9db49022411a35aa5be83c67b6fe45e110b5ed2abd0456c",
+      "byteSize": 206427
     },
     {
       "id": "Pv",
@@ -94,8 +94,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 51,
       "downloadPath": "Pv.sqlite.zip",
-      "sha256": "380a6923a2e59279561679127e66e0dd9db05869eb27458bda2294d0d0682b1f",
-      "byteSize": 198792
+      "sha256": "ecd4c5165985a1295f36b378548227e47b765802791f39b55ff247685478721d",
+      "byteSize": 199591
     },
     {
       "id": "Th",
@@ -104,8 +104,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 112,
       "downloadPath": "Th.sqlite.zip",
-      "sha256": "37dcb15f03039cb65cd08f5290795e953ffa76b252bb8466fcd9925152fc1500",
-      "byteSize": 340522
+      "sha256": "69d9200f20d512a727e8f8c2bd3c7156300db9e601cbdef7452308f6e3a4b54d",
+      "byteSize": 340737
     },
     {
       "id": "Thi",
@@ -114,8 +114,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 73,
       "downloadPath": "Thi.sqlite.zip",
-      "sha256": "f6b0d3f593679345a1501f7418120de3af63bdf3e467724d1a9160a4aa5f04c8",
-      "byteSize": 136861
+      "sha256": "a245762151abf326020c091d3cd320a9100876cbbc9cae059108b5e58cb71164",
+      "byteSize": 137670
     },
     {
       "id": "Ap",
@@ -124,8 +124,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 603,
       "downloadPath": "Ap.sqlite.zip",
-      "sha256": "fd8d1e01c1691634d48e1fc48e32ca54d64e061c189d9928d3bb3d6475deeee1",
-      "byteSize": 1415720
+      "sha256": "99e499b084aa58daa45249b80454fe8b90d0806d2b8c4bc5f77dbfc438fdaa83",
+      "byteSize": 1406275
     },
     {
       "id": "Bv",
@@ -134,8 +134,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 29,
       "downloadPath": "Bv.sqlite.zip",
-      "sha256": "602487c151b026fda24127099b1c8338b8e77a43242cbc4dd13941956d9a6161",
-      "byteSize": 173977
+      "sha256": "e4d2e950c4d0473ef9b4470c7c142d07a2ae85bebd0ffc792695944e4ff4ec47",
+      "byteSize": 172465
     },
     {
       "id": "Cp",
@@ -144,8 +144,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 35,
       "downloadPath": "Cp.sqlite.zip",
-      "sha256": "dd00bded0cf17cb8392a8beab7810441fc197aaed875c2a1d9ca687d530a9898",
-      "byteSize": 92035
+      "sha256": "1274927b3ce8b73736045ff86dacc2c771fff25c42210b69ec12c0647971bba7",
+      "byteSize": 91964
     },
     {
       "id": "Ja",
@@ -154,8 +154,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 117,
       "downloadPath": "Ja.sqlite.zip",
-      "sha256": "19a6ae902b7b5988d0cf25a26d6d7c7ebd18283df64636b83349c745361c1ccc",
-      "byteSize": 853617
+      "sha256": "76cee896ed2b64e3d7b97f545f5d9d4a93587a652edd619f33da27aac014da99",
+      "byteSize": 841596
     },
     {
       "id": "Mil",
@@ -164,8 +164,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 36,
       "downloadPath": "Mil.sqlite.zip",
-      "sha256": "cfc1181bf10941cc179d2f103374481f63908ec891f31d5b712d38227c772c82",
-      "byteSize": 944383
+      "sha256": "bc9bd3391641f9e73a2c8e9860b343775af2cc332baab412c16a127e89bf1455",
+      "byteSize": 943750
     },
     {
       "id": "pts-mula",
