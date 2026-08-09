@@ -5,7 +5,7 @@
   "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant",
   "attribution": "本站内容由莊春江老师翻译、整理与著述，现由家属决议采创用 CC 授权开放分享。来源：莊春江讀經站 https://agama.buddhason.org",
   "sourceURL": "https://agama.buddhason.org",
-  "generatedAt": "2026-08-09T11:57:51.128797+00:00",
+  "generatedAt": "2026-08-09T12:21:10.490661+00:00",
   "collections": [
     {
       "id": "Ud",
@@ -166,6 +166,54 @@
       "downloadPath": "Mil.sqlite.zip",
       "sha256": "cfc1181bf10941cc179d2f103374481f63908ec891f31d5b712d38227c772c82",
       "byteSize": 944383
+    },
+    {
+      "id": "pts-mula",
+      "titleZh": "三藏（根本）",
+      "titlePi": "Tipiṭaka (Mūla)",
+      "kind": "pts",
+      "suttaCount": 754,
+      "downloadPath": "pts-mula.sqlite.zip",
+      "sha256": "a623c1e499391de617207996c9ca86960b749e7363c5abfcc6220b45b4314b18",
+      "byteSize": 10860991,
+      "attribution": "CSCD Tipiṭaka via siongui/data — see NOTICE.md (not CC BY-NC-SA Zhuang).",
+      "sourceURL": "https://github.com/siongui/data"
+    },
+    {
+      "id": "pts-atthakatha",
+      "titleZh": "义注",
+      "titlePi": "Aṭṭhakathā",
+      "kind": "pts",
+      "suttaCount": 671,
+      "downloadPath": "pts-atthakatha.sqlite.zip",
+      "sha256": "3c7374128d4c86b183f996b33abf9988b07fff81ac9df5c7178609f756f5b3c8",
+      "byteSize": 22096002,
+      "attribution": "CSCD Tipiṭaka via siongui/data — see NOTICE.md (not CC BY-NC-SA Zhuang).",
+      "sourceURL": "https://github.com/siongui/data"
+    },
+    {
+      "id": "pts-tika",
+      "titleZh": "疏钞",
+      "titlePi": "Tīkā",
+      "kind": "pts",
+      "suttaCount": 802,
+      "downloadPath": "pts-tika.sqlite.zip",
+      "sha256": "c6a267b7cb487db1c288e08366ab03e66ad257bef19171670558c54fea7d4114",
+      "byteSize": 19898469,
+      "attribution": "CSCD Tipiṭaka via siongui/data — see NOTICE.md (not CC BY-NC-SA Zhuang).",
+      "sourceURL": "https://github.com/siongui/data"
+    },
+    {
+      "id": "pts-anya",
+      "titleZh": "其他",
+      "titlePi": "Anya",
+      "kind": "pts",
+      "suttaCount": 471,
+      "downloadPath": "pts-anya.sqlite.zip",
+      "sha256": "a79fe80945cf0eec056f3aeed2fb2ed2672a756deee87fceae6f271916a3fba5",
+      "byteSize": 10417220,
+      "attribution": "CSCD Tipiṭaka via siongui/data — see NOTICE.md (not CC BY-NC-SA Zhuang).",
+      "sourceURL": "https://github.com/siongui/data"
     }
   ]
 }

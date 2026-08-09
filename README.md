@@ -53,6 +53,19 @@ All 16 collections crawl successfully from [agama.buddhason.org](https://agama.b
 - TOC is published under `pts/pts_toc.json` (first milestone).
 - PTS body sqlite zips (`kind: "pts"`) may be added to later Release assets; until then the App shows TOC browse-only for leaves without a matching package.
 
+## Release `v1` packages (PTS roots)
+
+Four first-level CSCD Tipiṭaka packages (Pāli only):
+
+| id | title | approx zip |
+|----|--------|------------|
+| pts-mula | 三藏（根本） / Tipiṭaka (Mūla) | ~10 MB |
+| pts-atthakatha | 义注 / Aṭṭhakathā | ~21 MB |
+| pts-tika | 疏钞 / Tīkā | ~19 MB |
+| pts-anya | 其他 / Anya | ~10 MB |
+
+Source: [siongui/data](https://github.com/siongui/data) `tipitaka/romn/cscd`. See NOTICE.md.
+
 ## Licenses
 
 See [NOTICE.md](NOTICE.md). Zhuang packages remain **CC BY-NC-SA 4.0**. Do not assume CC0 applies to those texts.
