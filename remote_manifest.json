@@ -5,7 +5,7 @@
   "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant",
   "attribution": "本站内容由莊春江老师翻译、整理与著述，现由家属决议采创用 CC 授权开放分享。来源：莊春江讀經站 https://agama.buddhason.org",
   "sourceURL": "https://agama.buddhason.org",
-  "generatedAt": "2026-08-09T15:45:40.764174+00:00",
+  "generatedAt": "2026-08-09T15:50:26.211820+00:00",
   "collections": [
     {
       "id": "Ud",
@@ -104,8 +104,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 112,
       "downloadPath": "Th.sqlite.zip",
-      "sha256": "69d9200f20d512a727e8f8c2bd3c7156300db9e601cbdef7452308f6e3a4b54d",
-      "byteSize": 340737
+      "sha256": "b75d4a994b321a5301c055bd4eb266f9caa64b7d42565331dac8c9347f521fc0",
+      "byteSize": 340262
     },
     {
       "id": "Thi",
@@ -114,8 +114,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 73,
       "downloadPath": "Thi.sqlite.zip",
-      "sha256": "a245762151abf326020c091d3cd320a9100876cbbc9cae059108b5e58cb71164",
-      "byteSize": 137670
+      "sha256": "05a0fcfa7def059a3167792b802b8eff401fdc38d6804cf7c92b365294ac33e8",
+      "byteSize": 137434
     },
     {
       "id": "Ap",
