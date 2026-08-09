@@ -5,7 +5,7 @@
   "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant",
   "attribution": "本站内容由莊春江老师翻译、整理与著述，现由家属决议采创用 CC 授权开放分享。来源：莊春江讀經站 https://agama.buddhason.org",
   "sourceURL": "https://agama.buddhason.org",
-  "generatedAt": "2026-08-09T14:40:51.336951+00:00",
+  "generatedAt": "2026-08-09T15:11:44.229016+00:00",
   "collections": [
     {
       "id": "Ud",
@@ -164,8 +164,8 @@
       "kind": "zhuangExtra",
       "suttaCount": 36,
       "downloadPath": "Mil.sqlite.zip",
-      "sha256": "bc9bd3391641f9e73a2c8e9860b343775af2cc332baab412c16a127e89bf1455",
-      "byteSize": 943750
+      "sha256": "48b9439f6d33e6ccb45c4038b51fd891ff23af14e62cc825f4847f003e326141",
+      "byteSize": 944824
     },
     {
       "id": "pts-mula",
