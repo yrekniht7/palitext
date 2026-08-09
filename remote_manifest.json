@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "baseURL": "https://github.com/yrekniht7/palitext/releases/download/v1/",
+  "license": "CC BY-NC-SA 4.0",
+  "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant",
+  "attribution": "本站内容由莊春江老师翻译、整理与著述，现由家属决议采创用 CC 授权开放分享。来源：莊春江讀經站 https://agama.buddhason.org",
+  "sourceURL": "https://agama.buddhason.org",
+  "generatedAt": "2026-08-09T11:57:51.128797+00:00",
+  "collections": [
+    {
+      "id": "Ud",
+      "titleZh": "优陀那",
+      "titlePi": "Udāna",
+      "kind": "zhuangExtra",
+      "suttaCount": 80,
+      "downloadPath": "Ud.sqlite.zip",
+      "sha256": "cbbb10f8a0fbf2ff14265a684dd4c70be5a0b79d1dc7b047854c02a4e9a1ea70",
+      "byteSize": 264766
+    },
+    {
+      "id": "It",
+      "titleZh": "如是语",
+      "titlePi": "Itivuttaka",
+      "kind": "zhuangExtra",
+      "suttaCount": 112,
+      "downloadPath": "It.sqlite.zip",
+      "sha256": "3b95cd6fe877512d2389fe28e2eaf0539a9293d77fa59fe38bca0b72afca345f",
+      "byteSize": 162819
+    },
+    {
+      "id": "Ps",
+      "titleZh": "无碍解道",
+      "titlePi": "Paṭisambhidāmagga",
+      "kind": "zhuangExtra",
+      "suttaCount": 30,
+      "downloadPath": "Ps.sqlite.zip",
+      "sha256": "36887b2cc5ed8d5cdd90af4e8659b7b670d8dfe5ecbae038ddaf79fb399cc21e",
+      "byteSize": 601763
+    },
+    {
+      "id": "Nidd",
+      "titleZh": "义释",
+      "titlePi": "Niddesa",
+      "kind": "zhuangExtra",
+      "suttaCount": 39,
+      "downloadPath": "Nidd.sqlite.zip",
+      "sha256": "8100976d76c90bdf1df874bc648209f977fdd6232a42fa31b87eb0de886d96b0",
+      "byteSize": 1575171
+    },
+    {
+      "id": "Khp",
+      "titleZh": "小诵",
+      "titlePi": "Khuddakapāṭha",
+      "kind": "zhuangExtra",
+      "suttaCount": 9,
+      "downloadPath": "Khp.sqlite.zip",
+      "sha256": "83567327c3925b7c2be1d30ae2e6156c065d59e93841f12ee9f0652796e3fb51",
+      "byteSize": 25162
+    },
+    {
+      "id": "Dhp",
+      "titleZh": "法句",
+      "titlePi": "Dhammapada",
+      "kind": "zhuangExtra",
+      "suttaCount": 26,
+      "downloadPath": "Dhp.sqlite.zip",
+      "sha256": "c55814560db6cf21be69c7b55c447454649038e3b38e5279335f369d2438f4f5",
+      "byteSize": 111852
+    },
+    {
+      "id": "Snp",
+      "titleZh": "经集",
+      "titlePi": "Suttanipāta",
+      "kind": "zhuangExtra",
+      "suttaCount": 73,
+      "downloadPath": "Snp.sqlite.zip",
+      "sha256": "40a7fa61a7c3f3b0dbe8a8ad63d2e513444ab281575b1e1275305c25c1e01265",
+      "byteSize": 371102
+    },
+    {
+      "id": "Vv",
+      "titleZh": "天宫事",
+      "titlePi": "Vimānavatthu",
+      "kind": "zhuangExtra",
+      "suttaCount": 85,
+      "downloadPath": "Vv.sqlite.zip",
+      "sha256": "a53d849a36a749e75ea639cbd80c7847910ae547fc8d4d790abb4cc6fe8390be",
+      "byteSize": 208134
+    },
+    {
+      "id": "Pv",
+      "titleZh": "饿鬼事",
+      "titlePi": "Petavatthu",
+      "kind": "zhuangExtra",
+      "suttaCount": 51,
+      "downloadPath": "Pv.sqlite.zip",
+      "sha256": "380a6923a2e59279561679127e66e0dd9db05869eb27458bda2294d0d0682b1f",
+      "byteSize": 198792
+    },
+    {
+      "id": "Th",
+      "titleZh": "长老偈",
+      "titlePi": "Theragāthā",
+      "kind": "zhuangExtra",
+      "suttaCount": 112,
+      "downloadPath": "Th.sqlite.zip",
+      "sha256": "37dcb15f03039cb65cd08f5290795e953ffa76b252bb8466fcd9925152fc1500",
+      "byteSize": 340522
+    },
+    {
+      "id": "Thi",
+      "titleZh": "长老尼偈",
+      "titlePi": "Therīgāthā",
+      "kind": "zhuangExtra",
+      "suttaCount": 73,
+      "downloadPath": "Thi.sqlite.zip",
+      "sha256": "f6b0d3f593679345a1501f7418120de3af63bdf3e467724d1a9160a4aa5f04c8",
+      "byteSize": 136861
+    },
+    {
+      "id": "Ap",
+      "titleZh": "阿波陀那",
+      "titlePi": "Apadāna",
+      "kind": "zhuangExtra",
+      "suttaCount": 603,
+      "downloadPath": "Ap.sqlite.zip",
+      "sha256": "fd8d1e01c1691634d48e1fc48e32ca54d64e061c189d9928d3bb3d6475deeee1",
+      "byteSize": 1415720
+    },
+    {
+      "id": "Bv",
+      "titleZh": "觉种性",
+      "titlePi": "Buddhavamsa",
+      "kind": "zhuangExtra",
+      "suttaCount": 29,
+      "downloadPath": "Bv.sqlite.zip",
+      "sha256": "602487c151b026fda24127099b1c8338b8e77a43242cbc4dd13941956d9a6161",
+      "byteSize": 173977
+    },
+    {
+      "id": "Cp",
+      "titleZh": "所行藏",
+      "titlePi": "Cariyāpiṭaka",
+      "kind": "zhuangExtra",
+      "suttaCount": 35,
+      "downloadPath": "Cp.sqlite.zip",
+      "sha256": "dd00bded0cf17cb8392a8beab7810441fc197aaed875c2a1d9ca687d530a9898",
+      "byteSize": 92035
+    },
+    {
+      "id": "Ja",
+      "titleZh": "本生",
+      "titlePi": "Jātaka",
+      "kind": "zhuangExtra",
+      "suttaCount": 117,
+      "downloadPath": "Ja.sqlite.zip",
+      "sha256": "19a6ae902b7b5988d0cf25a26d6d7c7ebd18283df64636b83349c745361c1ccc",
+      "byteSize": 853617
+    },
+    {
+      "id": "Mil",
+      "titleZh": "弥兰王问经",
+      "titlePi": "Milindapañha",
+      "kind": "zhuangExtra",
+      "suttaCount": 36,
+      "downloadPath": "Mil.sqlite.zip",
+      "sha256": "cfc1181bf10941cc179d2f103374481f63908ec891f31d5b712d38227c772c82",
+      "byteSize": 944383
+    }
+  ]
+}
