@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "notes": "这是一个开发阶段用于测试的版本。",
+  "notesHant": "這是一個開發階段用於測試的版本。",
+  "notesEn": "This is a development build for testing.",
+  "apkUrl": "https://github.com/yrekniht7/palitext/releases/download/android-v1.1/app-release.apk"
+}
