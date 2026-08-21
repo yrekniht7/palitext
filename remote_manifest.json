@@ -214,6 +214,58 @@
       "byteSize": 10417220,
       "attribution": "CSCD Tipiṭaka via siongui/data — see NOTICE.md (not CC BY-NC-SA Zhuang).",
       "sourceURL": "https://github.com/siongui/data"
+    },
+    {
+      "id": "DN_morph",
+      "titleZh": "长部词法",
+      "titlePi": "Dīgha Nikāya",
+      "kind": "morph",
+      "suttaCount": 34,
+      "downloadPath": "DN_morph.sqlite.zip",
+      "sha256": "11be08c02bd3c01b720a6017258f21187b9b56df97b32f4ce291846c499e7150",
+      "byteSize": 11484011,
+      "license": "Authorized reuse from 光明寺経蔵",
+      "attribution": "词法表整理自光明寺経蔵，已获管理人授权，仅供个人学习与研究。",
+      "sourceURL": "https://komyojikyozo.web.fc2.com"
+    },
+    {
+      "id": "MN_morph",
+      "titleZh": "中部词法",
+      "titlePi": "Majjhima Nikāya",
+      "kind": "morph",
+      "suttaCount": 152,
+      "downloadPath": "MN_morph.sqlite.zip",
+      "sha256": "a41d1b504d96144c04228f8d7f8d46b1c24e2f2a2a18d89b20a13bda105f2686",
+      "byteSize": 6944208,
+      "license": "Authorized reuse from 光明寺経蔵",
+      "attribution": "词法表整理自光明寺経蔵，已获管理人授权，仅供个人学习与研究。",
+      "sourceURL": "https://komyojikyozo.web.fc2.com"
+    },
+    {
+      "id": "SN_morph",
+      "titleZh": "相应部词法",
+      "titlePi": "Saṃyutta Nikāya",
+      "kind": "morph",
+      "suttaCount": 1316,
+      "downloadPath": "SN_morph.sqlite.zip",
+      "sha256": "001b4ee953dc34675c4efbc77293b6e911df340f90d844a4b72fce38fa3fc1cd",
+      "byteSize": 4011607,
+      "license": "Authorized reuse from 光明寺経蔵",
+      "attribution": "词法表整理自光明寺経蔵，已获管理人授权，仅供个人学习与研究。",
+      "sourceURL": "https://komyojikyozo.web.fc2.com"
+    },
+    {
+      "id": "AN_morph",
+      "titleZh": "增支部词法",
+      "titlePi": "Aṅguttara Nikāya",
+      "kind": "morph",
+      "suttaCount": 1477,
+      "downloadPath": "AN_morph.sqlite.zip",
+      "sha256": "665da4c74181d6131ee85d21e39227cc48c8aeb9169bd751f9e1d6d380171f1e",
+      "byteSize": 3988273,
+      "license": "Authorized reuse from 光明寺経蔵",
+      "attribution": "词法表整理自光明寺経蔵，已获管理人授权，仅供个人学习与研究。",
+      "sourceURL": "https://komyojikyozo.web.fc2.com"
     }
   ]
 }
