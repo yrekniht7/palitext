@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "5",
-  "notes": "如有任何问题请联系邮箱 help@7thinkery.com",
-  "notesHant": "如有任何問題請聯繫信箱 help@7thinkery.com",
-  "notesEn": "If you have any issues, please contact help@7thinkery.com",
-  "apkUrl": "https://github.com/yrekniht7/palitext/releases/download/android-v5/app-release.apk"
+  "versionCode": 6,
+  "versionName": "6",
+  "notes": "• 新增随机阅读：在「文献」Tab 顶部新增随机阅读功能。\n• 体验优化：修复笔记编辑器无法插入图片及草稿偶发丢失的问题，创作更安心。\n• 快捷入口：在「我的」Tab 中新增官网入口，方便快速访问。\n• 界面优化：优化 AI 工具窗口布局，大幅提升多文本输入时的输出展示空间。\n• 开放「巴利语学习模式」的体验版。\n\n如有任何问题请联系邮箱 help@7thinkery.com",
+  "notesHant": "• 新增隨機閱讀：在「文獻」Tab 頂部新增隨機閱讀功能。\n• 體驗優化：修復筆記編輯器無法插入圖片及草稿偶發遺失的問題，創作更安心。\n• 快捷入口：在「我的」Tab 中新增官網入口，方便快速存取。\n• 介面優化：優化 AI 工具視窗佈局，大幅提升多文本輸入時的輸出展示空間。\n• 開放「巴利語學習模式」的體驗版。\n\n如有任何問題請聯繫信箱 help@7thinkery.com",
+  "notesEn": "• Random Read: pick a random sutta from the top of the Texts tab.\n• Fixes: images can be inserted in the note editor again, and drafts no longer go missing.\n• Quick access: the official website is now linked from the Profile tab.\n• Layout: the AI panel gives the result area far more room when the selection is long.\n• Preview release of Pāli Learning Mode.\n\nIf you have any issues, please contact help@7thinkery.com",
+  "apkUrl": "https://github.com/yrekniht7/palitext/releases/download/android-v6/app-release.apk"
 }
