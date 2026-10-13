@@ -1,8 +1,8 @@
 {
   "versionCode": 16,
   "versionName": "1.3.1",
-  "notes": "为了配合中国大陆地区的合规上架要求，我们必须使用全新的应用包名发布新版本。这也意味着新版本将被识别为一个独立的全新应用，暂无法直接继承您在旧版本中积累的笔记与打卡数据。由此给您带来的不便，向您抱歉。\n\n请保留旧版应用，不要卸载，以便继续查看原有笔记与打卡数据。",
-  "notesHant": "為了配合中國大陸地區的合規上架要求，我們必須使用全新的應用套件名稱發布新版本。這也意味著新版本將被識別為一個獨立的全新應用，暫無法直接繼承您在舊版本中累積的筆記與打卡資料。由此給您帶來的不便，謹向您致歉。\n\n請保留舊版應用，不要解除安裝，以便繼續查看原有筆記與打卡資料。",
-  "notesEn": "To meet the compliance requirements for distribution in mainland China, we must release this version under a new application ID. It will therefore be installed as a separate, new app and cannot currently inherit the notes and check-in data accumulated in your old app. We apologize for the inconvenience.\n\nPlease keep the old app installed so you can continue accessing your existing notes and check-in data.",
+  "notes": "为了配合中国大陆地区的合规上架要求，我们必须使用全新的应用包名发布新版本。这也意味着新版本将被识别为一个独立的全新应用，暂无法直接继承您在旧版本中积累的笔记与打卡数据。由此给您带来的不便，向您抱歉。\n\n您可以视情况保留旧版应用，我们将视需求情况考虑在未来制作数据迁移工具。",
+  "notesHant": "為了配合中國大陸地區的合規上架要求，我們必須使用全新的應用套件名稱發布新版本。這也意味著新版本將被識別為一個獨立的全新應用，暫無法直接繼承您在舊版本中累積的筆記與打卡資料。由此給您帶來的不便，謹向您致歉。\n\n您可以視情況保留舊版應用，我們將視需求情況考慮在未來製作資料移轉工具。",
+  "notesEn": "To meet the compliance requirements for distribution in mainland China, we must release this version under a new application ID. It will therefore be installed as a separate, new app and cannot currently inherit the notes and check-in data accumulated in your old app. We apologize for the inconvenience.\n\nYou may keep the old app if needed. Depending on demand, we may consider developing a data migration tool in the future.",
   "apkUrl": "https://github.com/yrekniht7/palitext/releases/download/android-v1.3.1/palihelper-1.3.1.apk"
 }
