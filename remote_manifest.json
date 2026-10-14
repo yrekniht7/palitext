@@ -1,11 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "baseURL": "https://github.com/yrekniht7/palitext/releases/download/v1/",
   "license": "CC BY-NC-SA 4.0",
   "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant",
   "attribution": "本站内容由莊春江老师翻译、整理与著述，现由家属决议采创用 CC 授权开放分享。来源：莊春江讀經站 https://agama.buddhason.org",
   "sourceURL": "https://agama.buddhason.org",
-  "generatedAt": "2026-08-09T15:50:26.211820+00:00",
+  "generatedAt": "2026-10-14T01:39:52.091791+00:00",
   "collections": [
     {
       "id": "Ud",
@@ -185,9 +185,9 @@
       "titlePi": "Aṭṭhakathā",
       "kind": "pts",
       "suttaCount": 671,
-      "downloadPath": "pts-atthakatha.sqlite.zip",
-      "sha256": "3c7374128d4c86b183f996b33abf9988b07fff81ac9df5c7178609f756f5b3c8",
-      "byteSize": 22096002,
+      "downloadPath": "pts-atthakatha.zh-Hans-20261014-r1.sqlite.zip",
+      "sha256": "e6321486212c66b51034682fd750053e86838eedf4d8fe331ef20614f6f88b5d",
+      "byteSize": 22538349,
       "attribution": "CSCD Tipiṭaka via siongui/data — see NOTICE.md (not CC BY-NC-SA Zhuang).",
       "sourceURL": "https://github.com/siongui/data"
     },
