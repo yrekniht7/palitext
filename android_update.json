@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
+  "versionCode": 24,
   "versionName": "1.3.3",
-  "notes": "1.3.3 更新：\n• 各级目录可搜索当前目录及子目录内容，阅读后返回保留搜索状态。\n• 相应部按 56 个相应分层，完善经号范围。\n• PTS 续读标记更准确。\n• 复制正文附带经号及版本来源。\n\n正式版可直接覆盖更新。旧包用户请勿卸载或清除数据，按官网下载页的迁移说明操作。",
-  "notesHant": "1.3.3 更新：\n• 各級目錄可搜尋目前目錄及子目錄內容，閱讀後返回保留搜尋狀態。\n• 相應部按 56 個相應分層，完善經號範圍。\n• PTS 續讀標記更準確。\n• 複製正文附帶經號及版本來源。\n\n正式版可直接覆蓋更新。舊套件使用者請勿解除安裝或清除資料，按官網下載頁的移轉說明操作。",
-  "notesEn": "New in 1.3.3:\n• Search each directory; keep results when returning from reading.\n• Browse SN by 56 saṃyuttas with accurate sutta ranges.\n• Clearer PTS resume badges.\n• Copied text includes its reference and source.\n\nUpdate the current official app in place. Legacy users: do not uninstall or clear data; follow the migration guide on the download page.",
+  "notes": "1.3.3：修复原生选区菜单的AI翻译入口，移除胶囊；按当前选区操作，保留复制来源和引用。包含目录搜索、相应部目录与PTS续读优化；默认读经站绿，保留已设配色。正式版覆盖更新；旧包勿卸载或清数据，按官网迁移。",
+  "notesHant": "1.3.3：修復原生選取選單的AI翻譯入口，移除膠囊；依目前選取範圍操作，保留複製來源和引用。包含目錄搜尋、相應部目錄與PTS續讀優化；預設讀經站綠，保留已設配色。正式版覆蓋更新；舊版勿解除安裝或清除資料，依官網移轉。",
+  "notesEn": "1.3.3: Fix AI Translate in the native selection menu; remove the capsule. Use the current selection; keep copy sources and quotes. Includes directory search, SN catalogs and PTS resume fixes. Site green stays the default; saved colors remain. Update in place. Legacy users: do not uninstall or clear data; follow the website migration guide.",
   "apkUrl": "https://github.com/yrekniht7/palitext/releases/download/android-v1.3.3/palihelper-1.3.3.apk"
 }
