@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.3.2",
-  "notes": "巴利助手1.3.2版本新增《长部义注》初步汉译与注释。这是该文献在中文世界首部完整且正式的汉译作品。项目在初译文稿基础上开展二次全文校对，严格对标巴利原典语义、印度历史语境和三藏注释传统。团队在正文内人工逐段增补了千条随文注释。限于时间、精力与学识水平，译本难免存有疏漏。若您在研读时发现译文讹误，恳请来信指正：help@7thinkery.com",
-  "notesHant": "巴利助手1.3.2版本新增《長部義注》初步漢譯與註釋。這是該文獻在中文世界首部完整且正式的漢譯作品。專案在初譯文稿基礎上開展二次全文校對，嚴格對標巴利原典語義、印度歷史語境和三藏註釋傳統。團隊在正文內人工逐段增補了千條隨文註釋。限於時間、精力與學識水平，譯本難免存有疏漏。若您在研讀時發現譯文訛誤，懇請來信指正：help@7thinkery.com",
-  "notesEn": "Pali Helper 1.3.2 introduces an initial Chinese translation of the Dīgha Nikāya Commentary with annotations. This is the first complete, formal Chinese translation of this work. Building on the initial draft, the project has undertaken a second full-text review, closely checking the meaning of the Pāli original, the historical context of India, and the Tipiṭaka commentarial tradition. The team has manually added a thousand annotations, paragraph by paragraph, throughout the text. Given the limits of our time, energy, and knowledge, omissions and errors may remain. If you encounter translation errors in your study, please send corrections to help@7thinkery.com.",
-  "apkUrl": "https://github.com/yrekniht7/palitext/releases/download/android-v1.3.2/palihelper-1.3.2.apk"
+  "versionCode": 23,
+  "versionName": "1.3.3",
+  "notes": "1.3.3 更新：\n• 各级目录可搜索当前目录及子目录内容，阅读后返回保留搜索状态。\n• 相应部按 56 个相应分层，完善经号范围。\n• PTS 续读标记更准确。\n• 复制正文附带经号及版本来源。\n\n正式版可直接覆盖更新。旧包用户请勿卸载或清除数据，按官网下载页的迁移说明操作。",
+  "notesHant": "1.3.3 更新：\n• 各級目錄可搜尋目前目錄及子目錄內容，閱讀後返回保留搜尋狀態。\n• 相應部按 56 個相應分層，完善經號範圍。\n• PTS 續讀標記更準確。\n• 複製正文附帶經號及版本來源。\n\n正式版可直接覆蓋更新。舊套件使用者請勿解除安裝或清除資料，按官網下載頁的移轉說明操作。",
+  "notesEn": "New in 1.3.3:\n• Search each directory; keep results when returning from reading.\n• Browse SN by 56 saṃyuttas with accurate sutta ranges.\n• Clearer PTS resume badges.\n• Copied text includes its reference and source.\n\nUpdate the current official app in place. Legacy users: do not uninstall or clear data; follow the migration guide on the download page.",
+  "apkUrl": "https://github.com/yrekniht7/palitext/releases/download/android-v1.3.3/palihelper-1.3.3.apk"
 }
